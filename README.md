@@ -24,7 +24,7 @@ git clone https://github.com/Marqui-13/singleQubitgit
 After cloning the repository, navigate to its directory and run the operation using the .NET Core CLI:
 
 
-dotnet run --project sq.qs
+dotnet run --project yourProjectName
 
 
 ## Code Overview
